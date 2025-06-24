@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.0](https://github.com/kmitrovic/github-unleashed-sample-app/compare/v0.0.2...v0.1.0) (2025-06-24)
+
+
+### Features
+
+* new link ([43af697](https://github.com/kmitrovic/github-unleashed-sample-app/commit/43af69779cf930b9d5bf1e069445e238d4e62a54))
+
+
+### Bug Fixes
+
+* Hands on ([3d5a089](https://github.com/kmitrovic/github-unleashed-sample-app/commit/3d5a0898b58d69b3d339a69c875b6f511ae95912))
+
 ## [0.0.2](https://github.com/kmitrovic/github-unleashed-sample-app/compare/v0.0.1...v0.0.2) (2025-06-24)
 
 
