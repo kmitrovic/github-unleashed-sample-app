@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.2](https://github.com/kmitrovic/github-unleashed-sample-app/compare/v0.0.1...v0.0.2) (2025-06-24)
+
+
+### Bug Fixes
+
+* **deps:** bump org.springframework.boot:spring-boot-starter-parent ([f4ff018](https://github.com/kmitrovic/github-unleashed-sample-app/commit/f4ff018c651eaf3c8a88f5c6c11be88890a872c8))
+
 ## 0.0.1 (2025-06-24)
 
 
